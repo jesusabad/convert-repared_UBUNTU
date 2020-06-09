@@ -26,7 +26,7 @@ Al hacer el enlace con el script, se realiza con el comando `ln -s` en lugar de 
 
 ## About convertir.sh
 
-Versión 1.0
+Versiones 1.0 a 1.1
 Creador Jesús Abad
 Fecha 09-06-2020
 Web https://que-cosas.blogspot.com
